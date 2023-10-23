@@ -1,0 +1,293 @@
+{
+  "uuid": "52b35aee3bc3d78c63160fca129e57a3",
+  "path": "Offline/New Project",
+  "name": "New Project",
+  "content": "",
+  "created_at": "2023-08-31 23:48:33",
+  "updated_at": "2023-10-23 20:37:14",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "30fcc1acda419593e37ef2a04e8a064b",
+      "title": "EspOledsch",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "b91196cc91634908a57ec2577bc340b1": 1,
+        "e4dbf5a145df4956a87241c1189e5a10": 2,
+        "a0b7c94437cf48f28e2b953c34e1de8e": 1,
+        "65e61e639a3c4fcca57738a78ebe1e80": 1,
+        "60b63ad8696c4c1a857579202526afdc": 1,
+        "a4eb121a403847a88802419747e168f5": 1,
+        "ebb4c8afd93d4ad5b1ce6be61ad0ed41": 3,
+        "8f62b5acfcbf4fc8a5465513ac094d7f": 1,
+        "2aefc02f4e52481a8f073094aece8331": 1,
+        "98f88002b3b84d90b75ccf805e527fb7": 1,
+        "a4f574aa97684840927e49827ba7a5bc": 1,
+        "1205eafa6010453cbd94c0fb606e7608": 1,
+        "2c5c4d384db042719c5d01ed430dc41b": 9
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "10uF",
+          1,
+          "C0805",
+          "C1",
+          {
+            "Supplier": "LCSC",
+            "Supplier Part": "C380331",
+            "Manufacturer": "CCTC(三环)",
+            "Manufacturer Part": "TCC0805X5R106K100FT",
+            "Contributor": "LCSC",
+            "JLCPCB Part Class": "Extended Part",
+            "spiceSymbolName": "TCC0805X5R106K100FT",
+            "puuid": "2ee8eb13a0124a108e622ce40c0c25a8",
+            "uuid": "8f62b5acfcbf4fc8a5465513ac094d7f"
+          }
+        ],
+        [
+          "22uF",
+          1,
+          "C0805",
+          "C5",
+          {
+            "Contributor": "LCSC",
+            "Supplier": "LCSC",
+            "Supplier Part": "C380338",
+            "Manufacturer": "CCTC(三环)",
+            "Manufacturer Part": "TCC0805X5R226M100FT",
+            "JLCPCB Part Class": "Extended Part",
+            "link": "https://lcsc.com/eda_search?q=C380338&%26type=1&ref=editor",
+            "spiceSymbolName": "TCC0805X5R226M100FT",
+            "puuid": "2ee8eb13a0124a108e622ce40c0c25a8",
+            "uuid": "1205eafa6010453cbd94c0fb606e7608"
+          }
+        ],
+        [
+          "X6511WVS-04H-C60D48-R1",
+          1,
+          "HDR-SMD_4P-P2.54-V-M-S4.8",
+          "H1",
+          {
+            "Contributor": "LCSC",
+            "Supplier": "LCSC",
+            "Supplier Part": "C780062",
+            "Manufacturer": "XKB Connectivity(中国星坤)",
+            "Manufacturer Part": "X6511WVS-04H-C60D48R1",
+            "JLCPCB Part Class": "Extended Part",
+            "link": "https://lcsc.com/eda_search?q=C780062&%26type=1&ref=editor",
+            "spiceSymbolName": "X6511WVS-04H-C60D48-R1",
+            "puuid": "c85a84be542d410d8b0b8bdbf513650a",
+            "uuid": "60b63ad8696c4c1a857579202526afdc"
+          }
+        ],
+        [
+          "LD1117S33TR",
+          1,
+          "SOT-223_L6.5-W3.5-P2.30-LS7.0-BR",
+          "LDO",
+          {
+            "Supplier": "LCSC",
+            "Supplier Part": "C86781",
+            "Manufacturer": "ST(意法半导体)",
+            "Manufacturer Part": "LD1117S33TR",
+            "Contributor": "LCSC",
+            "JLCPCB Part Class": "Extended Part",
+            "spiceSymbolName": "LD1117S33TR",
+            "puuid": "4ca399a3887148eeab92cd3a98a855b3",
+            "uuid": "2aefc02f4e52481a8f073094aece8331"
+          }
+        ],
+        [
+          "HS154L03W2C01",
+          1,
+          "OLED-TH_-4P-L42.4-W38.0-P2.54",
+          "OLED1",
+          {
+            "Supplier": "LCSC",
+            "Supplier Part": "C7465998",
+            "Manufacturer": "HS(汉昇)",
+            "Manufacturer Part": "HS154L03W2C01",
+            "Contributor": "lcsc",
+            "link": "https://lcsc.com/eda_search?q=C7465999&%26type=1&ref=editor",
+            "spiceSymbolName": "HS154L03W2C01",
+            "puuid": "817743ae22184392a5653153fa45a742",
+            "uuid": "b91196cc91634908a57ec2577bc340b1"
+          }
+        ],
+        [
+          "10k",
+          9,
+          "R0603",
+          "R1,R2,R3,R4,R5,R6,R7,R8,R9",
+          {
+            "Contributor": "LCSC",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2930027",
+            "Manufacturer": "FOJAN(富捷)",
+            "Manufacturer Part": "FRC0603J103TS",
+            "JLCPCB Part Class": "Extended Part",
+            "link": "https://lcsc.com/eda_search?q=C2930027&%26type=1&ref=editor",
+            "spiceSymbolName": "FRC0603J103TS",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "2c5c4d384db042719c5d01ed430dc41b"
+          }
+        ],
+        [
+          "MK-12C02-G020",
+          1,
+          "SW-SMD_MK-12C02-G020",
+          "SW1",
+          {
+            "Contributor": "LCSC",
+            "Supplier": "LCSC",
+            "Supplier Part": "C963206",
+            "Manufacturer": "G-Switch",
+            "Manufacturer Part": "MK-12C02-G020",
+            "JLCPCB Part Class": "Extended Part",
+            "link": "https://lcsc.com/eda_search?q=C963206&%26type=1&ref=editor",
+            "spiceSymbolName": "MK-12C02-G020",
+            "puuid": "8d724e86cea6442ead4801c40439aad0",
+            "uuid": "98f88002b3b84d90b75ccf805e527fb7"
+          }
+        ],
+        [
+          "EC11J1524413",
+          1,
+          "SW-SMD_EC11J1524413",
+          "SW2",
+          {
+            "Contributor": "LCSC",
+            "Supplier": "LCSC",
+            "Supplier Part": "C470592",
+            "Manufacturer": "ALPSALPINE(阿尔卑斯阿尔派)",
+            "Manufacturer Part": "EC11J1524413",
+            "JLCPCB Part Class": "Extended Part",
+            "link": "https://lcsc.com/eda_search?q=C470592&%26type=1&ref=editor",
+            "spiceSymbolName": "EC11J1524413",
+            "puuid": "85d686c4ecf54919bd9c8e9cbab40a4e",
+            "uuid": "a0b7c94437cf48f28e2b953c34e1de8e"
+          }
+        ],
+        [
+          "BTSA-N-S-18",
+          1,
+          "SW-SMD_BTSA-X-S-18",
+          "SW3",
+          {
+            "Contributor": "LCSC",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2693642",
+            "Manufacturer": "ROCPU Switches(台普)",
+            "Manufacturer Part": "BTSA-N-S-18",
+            "JLCPCB Part Class": "Extended Part",
+            "link": "https://lcsc.com/eda_search?q=C2693642&%26type=1&ref=editor",
+            "spiceSymbolName": "BTSA-N-S-18",
+            "puuid": "1abbf943fdb7448faac0949834690311",
+            "uuid": "65e61e639a3c4fcca57738a78ebe1e80"
+          }
+        ],
+        [
+          "ESP32-S3-WROOM-1-N8",
+          1,
+          "ESP32 S3 WROOM1 N8",
+          "U1",
+          {
+            "Contributor": "lcsc",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2913198",
+            "Manufacturer": "ESPRESSIF(乐鑫)",
+            "Manufacturer Part": "ESP32-S3-WROOM-1-N8",
+            "JLCPCB Part Class": "Extended Part",
+            "link": "https://lcsc.com/eda_search?q=C2913198&%26type=1&ref=editor",
+            "spiceSymbolName": "ESP32-S3-WROOM-1-N8",
+            "puuid": "46dbb8f48d5446659e0e733101ac2080",
+            "uuid": "e4dbf5a145df4956a87241c1189e5a10"
+          }
+        ],
+        [
+          "ESP32-S3-WROOM-1-N8",
+          1,
+          "WIFIM-SMD_ESP32-S3-WROOM-1-N8",
+          "U2",
+          {
+            "Contributor": "lcsc",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2913198",
+            "Manufacturer": "ESPRESSIF(乐鑫)",
+            "Manufacturer Part": "ESP32-S3-WROOM-1-N8",
+            "JLCPCB Part Class": "Extended Part",
+            "link": "https://lcsc.com/eda_search?q=C2913198&%26type=1&ref=editor",
+            "spiceSymbolName": "ESP32-S3-WROOM-1-N8",
+            "puuid": "c4a8c99709c548f1b51dd48043933daf",
+            "uuid": "e4dbf5a145df4956a87241c1189e5a10"
+          }
+        ],
+        [
+          "USB-TYPE-C-018",
+          1,
+          "USB-C_SMD-TYPE-C-31-M-12",
+          "USB1",
+          {
+            "Contributor": "LCSC",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2927038",
+            "Manufacturer": "DEALON(德艺隆)",
+            "Manufacturer Part": "USB-TYPE-C-018",
+            "JLCPCB Part Class": "Extended Part",
+            "link": "https://lcsc.com/eda_search?q=C2927038&%26type=1&ref=editor",
+            "spiceSymbolName": "USB-TYPE-C-018",
+            "puuid": "bcc58561d22445c2b08855ecf0dba7c7",
+            "uuid": "a4eb121a403847a88802419747e168f5"
+          }
+        ]
+      ],
+      "updateTime": 1698082440,
+      "createTime": 1693514913,
+      "histories": [],
+      "created_at": "2023-08-31 23:48:33",
+      "updated_at": "2023-10-23 20:34:00"
+    },
+    {
+      "uuid": "ef952050c0377f56c397786276686b02",
+      "puuid": "52b35aee3bc3d78c63160fca129e57a3",
+      "title": "EspOled",
+      "filename": "EspOled.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "85d686c4ecf54919bd9c8e9cbab40a4e": 1,
+        "1abbf943fdb7448faac0949834690311": 1,
+        "c85a84be542d410d8b0b8bdbf513650a": 1,
+        "2ee8eb13a0124a108e622ce40c0c25a8": 6,
+        "4ca399a3887148eeab92cd3a98a855b3": 1,
+        "bcc58561d22445c2b08855ecf0dba7c7": 1,
+        "8d724e86cea6442ead4801c40439aad0": 1,
+        "46dbb8f48d5446659e0e733101ac2080": 1,
+        "398691f1f785460098bbe5ee6590333c": 9
+      },
+      "BOM": [],
+      "updateTime": 1698082634,
+      "createTime": 1693832516,
+      "histories": [],
+      "created_at": "2023-09-04 16:01:56",
+      "updated_at": "2023-10-23 20:37:14"
+    }
+  ],
+  "sort": [],
+  "title": "New Project",
+  "foldername": "New Project",
+  "schfilename": "New Project.json",
+  "schfilemtime": 1698082440881
+}
